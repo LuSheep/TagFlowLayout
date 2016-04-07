@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<com.scu.lly.customerviewgroup.view.TagFlowLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#eeffff" >
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="Welcome" 
+	    android:visibility="gone"/> 
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="Android攻城师" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="IT工程师" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="阳哥你好" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="csdn nice" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="love you" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="China good" /> 
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="China good" /> 
+
+</com.scu.lly.customerviewgroup.view.TagFlowLayout>
+
+<com.scu.lly.customerviewgroup.view.TagFlowLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    android:background="#eeffff" >
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="Welcome" /> 
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="Android攻城师" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="IT工程师" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="阳哥你好" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="csdn nice" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="love you" /> 
+	    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="China good" /> 
+    
+    <TextView  
+	    style="@style/tv_style"  
+	    android:text="China good" /> 
+
+</com.scu.lly.customerviewgroup.view.TagFlowLayout>
+</LinearLayout>

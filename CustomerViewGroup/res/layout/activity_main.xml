@@ -1,0 +1,39 @@
+<com.scu.lly.customerviewgroup.view.CustomerViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#eeffff">
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:background="@android:color/holo_red_dark"
+        android:textColor="#ffffff"
+        android:text="View 1" />
+    
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_dark"
+        android:textColor="#ffffff"
+        android:text="View 2" />
+    
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#ffffff"
+        android:text="View 3" />
+    
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="#ffffff"
+        android:text="View 4" />
+
+</com.scu.lly.customerviewgroup.view.CustomerViewGroup>
